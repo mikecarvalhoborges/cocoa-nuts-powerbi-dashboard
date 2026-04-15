@@ -25,4 +25,4 @@ Criar um dashboard interativo para análise de vendas, permitindo identificar:
 - Países com menor participação apresentam oportunidade de crescimento.
 
 ## Arquivo
-- `cocoa_nuts.pbix`
+- `case1-cocoa-nuts.pbix`
