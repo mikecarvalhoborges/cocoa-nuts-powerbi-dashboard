@@ -1,4 +1,4 @@
-# Cocoa Nuts Sales Dashboard
+# "Cocoa Nuts" Sales Dashboard
 
 Projeto desenvolvido em Power BI como parte de um case prático de análise de dados para o Workshop da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
